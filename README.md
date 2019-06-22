@@ -6,3 +6,5 @@ HTML &amp; CSS &amp; some Sass
 14/06/2019 - Headings, Paragraphs, Typography
 
 20/062019 - Links Images and Attribute
+
+22/06/2019 - Lists & Tables
