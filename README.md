@@ -8,3 +8,7 @@ HTML &amp; CSS &amp; some Sass
 20/062019 - Links Images and Attribute
 
 22/06/2019 - Lists & Tables
+
+23/06/2019 
+- Forms and Input
+- Block and Inline Elements
