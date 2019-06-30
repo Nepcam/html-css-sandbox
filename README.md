@@ -13,4 +13,6 @@ HTML &amp; CSS &amp; some Sass
 - Forms and Input
 - Block and Inline Elements
 
-30/06/2019 - Divs and Spans, Classes & Ids
+30/06/2019 
+- Divs and Spans, Classes & Ids
+- HTML Entities
