@@ -16,3 +16,6 @@ HTML &amp; CSS &amp; some Sass
 30/06/2019 
 - Divs and Spans, Classes & Ids
 - HTML Entities
+
+14/07/2019
+- html5 Semantic Tags
